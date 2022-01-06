@@ -16,6 +16,11 @@ body {
   margin-bottom: 50px;
 }
 
+.bottom-banner {
+  background: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+}
+
 .banner {
   padding: 40px 80px;
   display: flex;
